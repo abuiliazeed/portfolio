@@ -54,6 +54,8 @@ const Hero = () => (
                   alt="stamp"
                   className="sm:w-[155px] w-[100px] sm:[155px] h-[100px]"
                 />
+
+                {/* comment */}
               </motion.div>
 
             </div>
