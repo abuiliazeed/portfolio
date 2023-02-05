@@ -45,9 +45,11 @@ const Hero = () => (
             alt="cover"
             className="w-full sm:h-[500px] h-[350px] object-cover rounded-tl-[140px] z-[10] relative"
           />
+          {/* comment */}
 
         </div>
       </motion.div>
+
 
     </motion.div>
   </section>
