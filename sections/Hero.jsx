@@ -14,7 +14,7 @@ const Hero = () => (
       className={`${styles.innerWidth} mx-auto flex flex-col`}
     >
       <div className="flex justify-center items-center flex-col relative z-10">
-        <motion.h1 variants={textVariant(1.1)}
+        <motion.h1 variants={textVariant(1)}
           className={styles.heroHeading}
         >
           AHMED
